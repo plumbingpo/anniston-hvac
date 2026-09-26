@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://annistonhvac.com/sitemap.xml
